@@ -1,0 +1,80 @@
+<?xml version='1.0' standalone='yes' ?>
+<LVData xmlns="http://www.ni.com/LVData">
+<Version>18.0f2</Version>
+<Cluster>
+<Name>Hard Kinematic Limits</Name>
+<NumElts>6</NumElts>
+<Cluster>
+<Name>X (mm)</Name>
+<NumElts>2</NumElts>
+<DBL>
+<Name>Upper Limit</Name>
+<Val>50.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Lower Limit</Name>
+<Val>-50.00000000000000</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>Y (mm)</Name>
+<NumElts>2</NumElts>
+<DBL>
+<Name>Upper Limit</Name>
+<Val>50.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Lower Limit</Name>
+<Val>-50.00000000000000</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>Z (mm)</Name>
+<NumElts>2</NumElts>
+<DBL>
+<Name>Upper Limit</Name>
+<Val>50.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Lower Limit</Name>
+<Val>-50.00000000000000</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>rX (mRadians)</Name>
+<NumElts>2</NumElts>
+<DBL>
+<Name>Upper Limit</Name>
+<Val>130.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Lower Limit</Name>
+<Val>-130.00000000000000</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>rY (mRadians)</Name>
+<NumElts>2</NumElts>
+<DBL>
+<Name>Upper Limit</Name>
+<Val>175.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Lower Limit</Name>
+<Val>-175.00000000000000</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>rZ (mRadians)</Name>
+<NumElts>2</NumElts>
+<DBL>
+<Name>Upper Limit</Name>
+<Val>35.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Lower Limit</Name>
+<Val>-35.00000000000000</Val>
+</DBL>
+</Cluster>
+</Cluster>
+</LVData>

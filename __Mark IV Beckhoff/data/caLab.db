@@ -1,0 +1,46 @@
+record(stringout, "TMO:{KBM1:}Sts") { field(DESC, "Status of IXS TriSphere") field(PINI, "YES")}
+record(ai, "XF:4IDD-OP{KBM:1-Ax:X}Mtr") { field(DESC, "X Target") field(PINI, "YES")}
+record(ai, "XF:4IDD-OP{KBM:1-Ax:Y}Mtr") { field(DESC, "Y Target") field(PINI, "YES")}
+record(ai, "XF:4IDD-OP{KBM:1-Ax:Z}Mtr") { field(DESC, "Z Target") field(PINI, "YES")}
+record(ai, "XF:4IDD-OP{KBM:1-Ax:Rx}Mtr") { field(DESC, "rX Target") field(PINI, "YES")}
+record(ai, "XF:4IDD-OP{KBM:1-Ax:Ry}Mtr") { field(DESC, "rY Target") field(PINI, "YES")}
+record(ai, "XF:4IDD-OP{KBM:1-Ax:Rz}Mtr") { field(DESC, "rZ Target") field(PINI, "YES")}
+record(ao, "XF:4IDD-OP{KBM:1-Ax:X1}Mtr") { field(DESC, "Motor 1 Current Position") field(PINI, "YES")}
+record(ao, "XF:4IDD-OP{KBM:1-Ax:Y2}Mtr") { field(DESC, "Motor 2 Current Position") field(PINI, "YES")}
+record(ao, "XF:4IDD-OP{KBM:1-Ax:Z3}Mtr") { field(DESC, "Motor 3 Current Position") field(PINI, "YES")}
+record(ao, "XF:4IDD-OP{KBM:1-Ax:Y4}Mtr") { field(DESC, "Motor 4 Current Position") field(PINI, "YES")}
+record(ao, "XF:4IDD-OP{KBM:1-Ax:Z5}Mtr") { field(DESC, "Motor 5 Current Position") field(PINI, "YES")}
+record(ao, "XF:4IDD-OP{KBM:1-Ax:Y6}Mtr") { field(DESC, "Motor 6 Current Position") field(PINI, "YES")}
+record(bi, "XF:4IDD-OP{KBM:1}Kill") { field(DESC, "Stop Motors") field(PINI, "YES")}
+record(bi, "XF:4IDD-OP{KBM:1}Mov") { field(DESC, "Move TriSphere to Target") field(PINI, "YES")}
+record(waveform, "XF:4IDD-OP{KBM:1}Mtr_CRC") { field(DESC, "CRC of Encoder") field(PINI, "YES") field(NELM, "6") field(FTVL, "DOUBLE")}
+record(waveform, "XF:4IDD-OP{KBM:1}Mtr_TOut") { field(DESC, "Motor Time Out") field(PINI, "YES") field(NELM, "6") field(FTVL, "DOUBLE")}
+record(waveform, "XF:4IDD-OP{KBM:1}Mtr_EErr") { field(DESC, "Encoder Error") field(PINI, "YES") field(NELM, "6") field(FTVL, "DOUBLE")}
+record(waveform, "XF:4IDD-OP{KBM:1}Mtr_InPos") { field(DESC, "In Position") field(PINI, "YES") field(NELM, "6") field(FTVL, "DOUBLE")}
+record(waveform, "XF:4IDD-OP{KBM:1}Mtr_AmpEn") { field(DESC, "Motor Amplifier Enabled") field(PINI, "YES") field(NELM, "6") field(FTVL, "DOUBLE")}
+record(bo , "XF:4IDD-OP{KBM:1}Local") { field(DESC, "Local Control") field(PINI, "YES")}
+record(bo , "XF:4IDD-OP{KBM:1}InPos") { field(DESC, "At Target") field(PINI, "YES")}
+record(bi, "XF:4IDD-OP{KBM:1}PosReset") { field(DESC, "Reset Targets to Current Position") field(PINI, "YES")}
+record(ao, "XF:4IDD-OP{KBM:1-Ax:X}Mtr_RBV") { field(DESC, "X:Readback Position") field(PINI, "YES")}
+record(ao, "XF:4IDD-OP{KBM:1-Ax:Y}Mtr_RBV") { field(DESC, "Y:Readback Position") field(PINI, "YES")}
+record(ao, "XF:4IDD-OP{KBM:1-Ax:Z}Mtr_RBV") { field(DESC, "Z:Readback Position") field(PINI, "YES")}
+record(ao, "XF:4IDD-OP{KBM:1-Ax:Rx}Mtr_RBV") { field(DESC, "rX:Readback Position") field(PINI, "YES")}
+record(ai, "XF:4IDD-OP{KBM:1-Ax:Ry}Mtr_RBV") { field(DESC, "rY:Readback Position") field(PINI, "YES")}
+record(ao, "XF:4IDD-OP{KBM:1-Ax:Rz}Mtr_RBV") { field(DESC, "rZ Readback Position") field(PINI, "YES")}
+record(bo , "XF:4IDD-OP{KBM:1}TarErr") { field(DESC, "Target Values out of system Range") field(PINI, "YES")}
+record(waveform, "TMO:{KBM:1-Ax:}SW:LMT+") { field(DESC, "Actuator Liits +") field(PINI, "YES") field(NELM, "1") field(FTVL, "DOUBLE")}
+record(longin, "TMO:{KBM:1-Ax:}SW:LMT-") { field(DESC, "Actuator Liits +") field(PINI, "YES")}
+record(bo , "TMO:{KBM:1-eStop}") { field(DESC, "EStop") field(PINI, "YES")}
+record(longin, "TMO:{KBM:1-CTLPt}") { field(DESC, "Control Point") field(PINI, "YES")}
+record(longin, "TMO:{KBM:1-Ax:Z1}LMT+") { field(DESC, "Axis 1 Z Limit +") field(PINI, "YES")}
+record(longin, "TMO:{KBM:1-Ax:Z1}LMT-") { field(DESC, "Axis 1 Z Limit -") field(PINI, "YES")}
+record(longin, "TMO:{KBM:1-Ax:2Y}LMT+") { field(DESC, "Axis 2 Y Limit +") field(PINI, "YES")}
+record(longin, "TMO:{KBM:1-Ax:2Y}LMT-") { field(DESC, "Axis 2 Y Limit -") field(PINI, "YES")}
+record(longin, "TMO:{KBM:1-Ax:3X}LMT+") { field(DESC, "Axis 3 X Limit +") field(PINI, "YES")}
+record(longin, "TMO:{KBM:1-Ax:3X}LMT-") { field(DESC, "Axis 3 X Limit -") field(PINI, "YES")}
+record(longin, "TMO:{KBM:1-Ax:4Y}LMT+") { field(DESC, "Axis 4 Y Limit +") field(PINI, "YES")}
+record(longin, "TMO:{KBM:1-Ax:4Y}LMT-") { field(DESC, "Axis 4 Y Limit -") field(PINI, "YES")}
+record(longin, "TMO:{KBM:1-Ax:5X}LMT+") { field(DESC, "Axis 5 X Limit +") field(PINI, "YES")}
+record(longin, "TMO:{KBM:1-Ax:5X}LMT-") { field(DESC, "Axis 5 X Limit -") field(PINI, "YES")}
+record(longin, "TMO:{KBM:1-Ax:6Y}LMT+") { field(DESC, "Axis 6 Y Limit +") field(PINI, "YES")}
+record(longin, "TMO:{KBM:1-Ax:6Y}LMT-") { field(DESC, "Axis 6 Y Limit -") field(PINI, "YES")}

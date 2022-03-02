@@ -1,0 +1,56 @@
+<?xml version='1.0' standalone='yes' ?>
+<LVData xmlns="http://www.ni.com/LVData">
+<Version>18.0.1</Version>
+<Cluster>
+<Name></Name>
+<NumElts>3</NumElts>
+<Cluster>
+<Name>Value</Name>
+<NumElts>3</NumElts>
+<DBL>
+<Name>X</Name>
+<Val>14.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Y</Name>
+<Val>958.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Z</Name>
+<Val>-455.00000000000000</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>Value</Name>
+<NumElts>3</NumElts>
+<DBL>
+<Name>X Translation</Name>
+<Val>-1.80000000000000E-3</Val>
+</DBL>
+<DBL>
+<Name>Y Translation</Name>
+<Val>1.00000000000000E-4</Val>
+</DBL>
+<DBL>
+<Name>Z Translation</Name>
+<Val>-6.00000000000000E-4</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>Value</Name>
+<NumElts>3</NumElts>
+<DBL>
+<Name>rX</Name>
+<Val>-5.00000000000000E-4</Val>
+</DBL>
+<DBL>
+<Name>rY</Name>
+<Val>1.10000000000000E-3</Val>
+</DBL>
+<DBL>
+<Name>rZ</Name>
+<Val>1.20000000000000E-3</Val>
+</DBL>
+</Cluster>
+</Cluster>
+</LVData>

@@ -1,0 +1,300 @@
+<?xml version='1.0' standalone='yes' ?>
+<LVData xmlns="http://www.ni.com/LVData">
+<Version>18.0f2</Version>
+<Cluster>
+<Name>Tri-Sphere Supplemental Parameters</Name>
+<NumElts>10</NumElts>
+<Cluster>
+<Name>Control Point</Name>
+<NumElts>3</NumElts>
+<DBL>
+<Name>X</Name>
+<Val>216.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Y</Name>
+<Val>75.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Z</Name>
+<Val>-815.00000000000000</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>Default Control Point</Name>
+<NumElts>3</NumElts>
+<DBL>
+<Name>X</Name>
+<Val>-983.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Y</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Z</Name>
+<Val>1270.00000000000000</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>Jack 0 Soft Limits</Name>
+<NumElts>4</NumElts>
+<Cluster>
+<Name>Active Axis 0</Name>
+<NumElts>2</NumElts>
+<DBL>
+<Name>Upper Limit</Name>
+<Val>34.50000000000000</Val>
+</DBL>
+<DBL>
+<Name>Lower Limit</Name>
+<Val>-34.50000000000000</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>Active Axis 1</Name>
+<NumElts>2</NumElts>
+<DBL>
+<Name>Upper Limit</Name>
+<Val>16.50000000000000</Val>
+</DBL>
+<DBL>
+<Name>Lower Limit</Name>
+<Val>-16.50000000000000</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>Passive Axis</Name>
+<NumElts>2</NumElts>
+<DBL>
+<Name>Upper Limit</Name>
+<Val>80.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Lower Limit</Name>
+<Val>-80.00000000000000</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>Ball Joint</Name>
+<NumElts>1</NumElts>
+<DBL>
+<Name>Tilt Limit (Rad)</Name>
+<Val>0.40000000000000</Val>
+</DBL>
+</Cluster>
+</Cluster>
+<Cluster>
+<Name>Jack 1 Soft Limits</Name>
+<NumElts>4</NumElts>
+<Cluster>
+<Name>Active Axis 0</Name>
+<NumElts>2</NumElts>
+<DBL>
+<Name>Upper Limit</Name>
+<Val>34.50000000000000</Val>
+</DBL>
+<DBL>
+<Name>Lower Limit</Name>
+<Val>-34.50000000000000</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>Active Axis 1</Name>
+<NumElts>2</NumElts>
+<DBL>
+<Name>Upper Limit</Name>
+<Val>16.50000000000000</Val>
+</DBL>
+<DBL>
+<Name>Lower Limit</Name>
+<Val>-16.50000000000000</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>Passive Axis</Name>
+<NumElts>2</NumElts>
+<DBL>
+<Name>Upper Limit</Name>
+<Val>80.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Lower Limit</Name>
+<Val>-80.00000000000000</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>Ball Joint</Name>
+<NumElts>1</NumElts>
+<DBL>
+<Name>Tilt Limit (Rad)</Name>
+<Val>0.40000000000000</Val>
+</DBL>
+</Cluster>
+</Cluster>
+<Cluster>
+<Name>Jack 2 Soft Limits</Name>
+<NumElts>4</NumElts>
+<Cluster>
+<Name>Active Axis 0</Name>
+<NumElts>2</NumElts>
+<DBL>
+<Name>Upper Limit</Name>
+<Val>35.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Lower Limit</Name>
+<Val>-34.50000000000000</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>Active Axis 1</Name>
+<NumElts>2</NumElts>
+<DBL>
+<Name>Upper Limit</Name>
+<Val>17.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Lower Limit</Name>
+<Val>-16.50000000000000</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>Passive Axis</Name>
+<NumElts>2</NumElts>
+<DBL>
+<Name>Upper Limit</Name>
+<Val>80.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Lower Limit</Name>
+<Val>-80.00000000000000</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>Ball Joint</Name>
+<NumElts>1</NumElts>
+<DBL>
+<Name>Tilt Limit (Rad)</Name>
+<Val>0.40000000000000</Val>
+</DBL>
+</Cluster>
+</Cluster>
+<Cluster>
+<Name>Limits</Name>
+<NumElts>6</NumElts>
+<Cluster>
+<Name>X (mm)</Name>
+<NumElts>2</NumElts>
+<DBL>
+<Name>Upper Limit</Name>
+<Val>20.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Lower Limit</Name>
+<Val>-20.00000000000000</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>Y (mm)</Name>
+<NumElts>2</NumElts>
+<DBL>
+<Name>Upper Limit</Name>
+<Val>10.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Lower Limit</Name>
+<Val>-10.00000000000000</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>Z (mm)</Name>
+<NumElts>2</NumElts>
+<DBL>
+<Name>Upper Limit</Name>
+<Val>20.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Lower Limit</Name>
+<Val>-20.00000000000000</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>rX (mRadians)</Name>
+<NumElts>2</NumElts>
+<DBL>
+<Name>Upper Limit</Name>
+<Val>10.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Lower Limit</Name>
+<Val>-10.00000000000000</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>rY (mRadians)</Name>
+<NumElts>2</NumElts>
+<DBL>
+<Name>Upper Limit</Name>
+<Val>22.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Lower Limit</Name>
+<Val>-22.00000000000000</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>rZ (mRadians)</Name>
+<NumElts>2</NumElts>
+<DBL>
+<Name>Upper Limit</Name>
+<Val>17.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Lower Limit</Name>
+<Val>-17.00000000000000</Val>
+</DBL>
+</Cluster>
+</Cluster>
+<Array>
+<Name>Encoder Null Positions</Name>
+<Dimsize>6</Dimsize>
+<I64>
+<Name>Numeric</Name>
+<Val>1517079</Val>
+</I64>
+<I64>
+<Name>Numeric</Name>
+<Val>1576728</Val>
+</I64>
+<I64>
+<Name>Numeric</Name>
+<Val>1497598</Val>
+</I64>
+<I64>
+<Name>Numeric</Name>
+<Val>1546216</Val>
+</I64>
+<I64>
+<Name>Numeric</Name>
+<Val>1522937</Val>
+</I64>
+<I64>
+<Name>Numeric</Name>
+<Val>1545490</Val>
+</I64>
+</Array>
+<String>
+<Name>Tri-Sphere Name</Name>
+<Val>FST</Val>
+</String>
+<String>
+<Name>Controller IP Address</Name>
+<Val>192.168.1.198</Val>
+</String>
+<String>
+<Name>Controller Port</Name>
+<Val>1025</Val>
+</String>
+</Cluster>
+</LVData>

@@ -1,0 +1,392 @@
+<?xml version='1.0' standalone='yes' ?>
+<LVData xmlns="http://www.ni.com/LVData">
+<Version>18.0f2</Version>
+<Cluster>
+<Name>Tri-Sphere Geometry</Name>
+<NumElts>3</NumElts>
+<Cluster>
+<Name>Jack 0 Parameters</Name>
+<NumElts>5</NumElts>
+<Array>
+<Name>Null Position</Name>
+<Dimsize>3</Dimsize>
+<DBL>
+<Name>Numeric</Name>
+<Val>285.14999999999998</Val>
+</DBL>
+<DBL>
+<Name>Numeric</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Numeric</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+</Array>
+<Cluster>
+<Name>Active Axis 0</Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Orientation</Name>
+<Dimsize>3</Dimsize>
+<DBL>
+<Name>Numeric</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Numeric</Name>
+<Val>1.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Numeric</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+</Array>
+<DBL>
+<Name>Upper Limit</Name>
+<Val>35.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Lower Limit</Name>
+<Val>-35.00000000000000</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>Active Axis 1</Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Orientation</Name>
+<Dimsize>3</Dimsize>
+<DBL>
+<Name>Numeric</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Numeric</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Numeric</Name>
+<Val>1.00000000000000</Val>
+</DBL>
+</Array>
+<DBL>
+<Name>Upper Limit</Name>
+<Val>17.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Lower Limit</Name>
+<Val>-17.00000000000000</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>Passive Axis</Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Orientation</Name>
+<Dimsize>3</Dimsize>
+<DBL>
+<Name>Numeric</Name>
+<Val>1.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Numeric</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Numeric</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+</Array>
+<DBL>
+<Name>Upper Limit</Name>
+<Val>72.50000000000000</Val>
+</DBL>
+<DBL>
+<Name>Lower Limit</Name>
+<Val>-72.50000000000000</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>Ball Joint</Name>
+<NumElts>2</NumElts>
+<Array>
+<Name>Ball Joint Axis</Name>
+<Dimsize>3</Dimsize>
+<DBL>
+<Name>Numeric</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Numeric</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Numeric</Name>
+<Val>1.00000000000000</Val>
+</DBL>
+</Array>
+<DBL>
+<Name>Tilt Limit (Rad)</Name>
+<Val>1.00000000000000</Val>
+</DBL>
+</Cluster>
+</Cluster>
+<Cluster>
+<Name>Jack 1 Parameters</Name>
+<NumElts>5</NumElts>
+<Array>
+<Name>Null Position</Name>
+<Dimsize>3</Dimsize>
+<DBL>
+<Name>Numeric</Name>
+<Val>-285.14999999999998</Val>
+</DBL>
+<DBL>
+<Name>Numeric</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Numeric</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+</Array>
+<Cluster>
+<Name>Active Axis 0</Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Orientation</Name>
+<Dimsize>3</Dimsize>
+<DBL>
+<Name>Numeric</Name>
+<Val>1.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Numeric</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Numeric</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+</Array>
+<DBL>
+<Name>Upper Limit</Name>
+<Val>35.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Lower Limit</Name>
+<Val>-35.00000000000000</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>Active Axis 1</Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Orientation</Name>
+<Dimsize>3</Dimsize>
+<DBL>
+<Name>Numeric</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Numeric</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Numeric</Name>
+<Val>1.00000000000000</Val>
+</DBL>
+</Array>
+<DBL>
+<Name>Upper Limit</Name>
+<Val>17.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Lower Limit</Name>
+<Val>-17.00000000000000</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>Passive Axis</Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Orientation</Name>
+<Dimsize>3</Dimsize>
+<DBL>
+<Name>Numeric</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Numeric</Name>
+<Val>1.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Numeric</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+</Array>
+<DBL>
+<Name>Upper Limit</Name>
+<Val>72.50000000000000</Val>
+</DBL>
+<DBL>
+<Name>Lower Limit</Name>
+<Val>-72.50000000000000</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>Ball Joint</Name>
+<NumElts>2</NumElts>
+<Array>
+<Name>Ball Joint Axis</Name>
+<Dimsize>3</Dimsize>
+<DBL>
+<Name>Numeric</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Numeric</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Numeric</Name>
+<Val>1.00000000000000</Val>
+</DBL>
+</Array>
+<DBL>
+<Name>Tilt Limit (Rad)</Name>
+<Val>1.00000000000000</Val>
+</DBL>
+</Cluster>
+</Cluster>
+<Cluster>
+<Name>Jack 2 Parameters</Name>
+<NumElts>5</NumElts>
+<Array>
+<Name>Null Position</Name>
+<Dimsize>3</Dimsize>
+<DBL>
+<Name>Numeric</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Numeric</Name>
+<Val>982.46100000000001</Val>
+</DBL>
+<DBL>
+<Name>Numeric</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+</Array>
+<Cluster>
+<Name>Active Axis 0</Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Orientation</Name>
+<Dimsize>3</Dimsize>
+<DBL>
+<Name>Numeric</Name>
+<Val>1.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Numeric</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Numeric</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+</Array>
+<DBL>
+<Name>Upper Limit</Name>
+<Val>35.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Lower Limit</Name>
+<Val>-35.00000000000000</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>Active Axis 1</Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Orientation</Name>
+<Dimsize>3</Dimsize>
+<DBL>
+<Name>Numeric</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Numeric</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Numeric</Name>
+<Val>1.00000000000000</Val>
+</DBL>
+</Array>
+<DBL>
+<Name>Upper Limit</Name>
+<Val>17.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Lower Limit</Name>
+<Val>-17.00000000000000</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>Passive Axis</Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Orientation</Name>
+<Dimsize>3</Dimsize>
+<DBL>
+<Name>Numeric</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Numeric</Name>
+<Val>1.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Numeric</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+</Array>
+<DBL>
+<Name>Upper Limit</Name>
+<Val>72.50000000000000</Val>
+</DBL>
+<DBL>
+<Name>Lower Limit</Name>
+<Val>-72.50000000000000</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>Ball Joint</Name>
+<NumElts>2</NumElts>
+<Array>
+<Name>Ball Joint Axis</Name>
+<Dimsize>3</Dimsize>
+<DBL>
+<Name>Numeric</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Numeric</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Numeric</Name>
+<Val>1.00000000000000</Val>
+</DBL>
+</Array>
+<DBL>
+<Name>Tilt Limit (Rad)</Name>
+<Val>1.00000000000000</Val>
+</DBL>
+</Cluster>
+</Cluster>
+</Cluster>
+</LVData>

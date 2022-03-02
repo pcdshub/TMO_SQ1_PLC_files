@@ -1,0 +1,1208 @@
+<?xml version='1.0' standalone='yes' ?>
+<LVData xmlns="http://www.ni.com/LVData">
+<Version>15.0f2</Version>
+<Array>
+<Name>configuration set</Name>
+<Dimsize>30</Dimsize>
+<Cluster>
+<Name></Name>
+<NumElts>6</NumElts>
+<String>
+<Name>PV name</Name>
+<Val>ISRKBM:Sts</Val>
+</String>
+<String>
+<Name>description</Name>
+<Val>Status of IXS TriSphere</Val>
+</String>
+<String>
+<Name>data type</Name>
+<Val>stringout</Val>
+</String>
+<I32>
+<Name>number of elements (waveform only)</Name>
+<Val>1</Val>
+</I32>
+<String>
+<Name>element size (waveform only)</Name>
+<Val></Val>
+</String>
+<Array>
+<Name></Name>
+<Dimsize>0</Dimsize>
+<Cluster>
+<Name></Name>
+<NumElts>2</NumElts>
+<String>
+<Name>field name</Name>
+<Val></Val>
+</String>
+<String>
+<Name>field value</Name>
+<Val></Val>
+</String>
+</Cluster>
+</Array>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>6</NumElts>
+<String>
+<Name>PV name</Name>
+<Val>XF:4IDD-OP{KBM:1-Ax:X}Mtr</Val>
+</String>
+<String>
+<Name>description</Name>
+<Val>X Target</Val>
+</String>
+<String>
+<Name>data type</Name>
+<Val>ai</Val>
+</String>
+<I32>
+<Name>number of elements (waveform only)</Name>
+<Val>1</Val>
+</I32>
+<String>
+<Name>element size (waveform only)</Name>
+<Val></Val>
+</String>
+<Array>
+<Name></Name>
+<Dimsize>0</Dimsize>
+<Cluster>
+<Name></Name>
+<NumElts>2</NumElts>
+<String>
+<Name>field name</Name>
+<Val></Val>
+</String>
+<String>
+<Name>field value</Name>
+<Val></Val>
+</String>
+</Cluster>
+</Array>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>6</NumElts>
+<String>
+<Name>PV name</Name>
+<Val>XF:4IDD-OP{KBM:1-Ax:Y}Mtr</Val>
+</String>
+<String>
+<Name>description</Name>
+<Val>Y Target</Val>
+</String>
+<String>
+<Name>data type</Name>
+<Val>ai</Val>
+</String>
+<I32>
+<Name>number of elements (waveform only)</Name>
+<Val>1</Val>
+</I32>
+<String>
+<Name>element size (waveform only)</Name>
+<Val></Val>
+</String>
+<Array>
+<Name></Name>
+<Dimsize>0</Dimsize>
+<Cluster>
+<Name></Name>
+<NumElts>2</NumElts>
+<String>
+<Name>field name</Name>
+<Val></Val>
+</String>
+<String>
+<Name>field value</Name>
+<Val></Val>
+</String>
+</Cluster>
+</Array>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>6</NumElts>
+<String>
+<Name>PV name</Name>
+<Val>XF:4IDD-OP{KBM:1-Ax:Z}Mtr</Val>
+</String>
+<String>
+<Name>description</Name>
+<Val>Z Target</Val>
+</String>
+<String>
+<Name>data type</Name>
+<Val>ai</Val>
+</String>
+<I32>
+<Name>number of elements (waveform only)</Name>
+<Val>1</Val>
+</I32>
+<String>
+<Name>element size (waveform only)</Name>
+<Val></Val>
+</String>
+<Array>
+<Name></Name>
+<Dimsize>0</Dimsize>
+<Cluster>
+<Name></Name>
+<NumElts>2</NumElts>
+<String>
+<Name>field name</Name>
+<Val></Val>
+</String>
+<String>
+<Name>field value</Name>
+<Val></Val>
+</String>
+</Cluster>
+</Array>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>6</NumElts>
+<String>
+<Name>PV name</Name>
+<Val>XF:4IDD-OP{KBM:1-Ax:Rx}Mtr</Val>
+</String>
+<String>
+<Name>description</Name>
+<Val>rX Target</Val>
+</String>
+<String>
+<Name>data type</Name>
+<Val>ai</Val>
+</String>
+<I32>
+<Name>number of elements (waveform only)</Name>
+<Val>1</Val>
+</I32>
+<String>
+<Name>element size (waveform only)</Name>
+<Val></Val>
+</String>
+<Array>
+<Name></Name>
+<Dimsize>0</Dimsize>
+<Cluster>
+<Name></Name>
+<NumElts>2</NumElts>
+<String>
+<Name>field name</Name>
+<Val></Val>
+</String>
+<String>
+<Name>field value</Name>
+<Val></Val>
+</String>
+</Cluster>
+</Array>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>6</NumElts>
+<String>
+<Name>PV name</Name>
+<Val>XF:4IDD-OP{KBM:1-Ax:Ry}Mtr</Val>
+</String>
+<String>
+<Name>description</Name>
+<Val>rY Target</Val>
+</String>
+<String>
+<Name>data type</Name>
+<Val>ai</Val>
+</String>
+<I32>
+<Name>number of elements (waveform only)</Name>
+<Val>1</Val>
+</I32>
+<String>
+<Name>element size (waveform only)</Name>
+<Val></Val>
+</String>
+<Array>
+<Name></Name>
+<Dimsize>0</Dimsize>
+<Cluster>
+<Name></Name>
+<NumElts>2</NumElts>
+<String>
+<Name>field name</Name>
+<Val></Val>
+</String>
+<String>
+<Name>field value</Name>
+<Val></Val>
+</String>
+</Cluster>
+</Array>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>6</NumElts>
+<String>
+<Name>PV name</Name>
+<Val>XF:4IDD-OP{KBM:1-Ax:Rz}Mtr</Val>
+</String>
+<String>
+<Name>description</Name>
+<Val>rZ Target</Val>
+</String>
+<String>
+<Name>data type</Name>
+<Val>ai</Val>
+</String>
+<I32>
+<Name>number of elements (waveform only)</Name>
+<Val>1</Val>
+</I32>
+<String>
+<Name>element size (waveform only)</Name>
+<Val></Val>
+</String>
+<Array>
+<Name></Name>
+<Dimsize>0</Dimsize>
+<Cluster>
+<Name></Name>
+<NumElts>2</NumElts>
+<String>
+<Name>field name</Name>
+<Val></Val>
+</String>
+<String>
+<Name>field value</Name>
+<Val></Val>
+</String>
+</Cluster>
+</Array>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>6</NumElts>
+<String>
+<Name>PV name</Name>
+<Val>XF:4IDD-OP{KBM:1-Ax:X1}Mtr</Val>
+</String>
+<String>
+<Name>description</Name>
+<Val>Motor 1 Current Position</Val>
+</String>
+<String>
+<Name>data type</Name>
+<Val>ao</Val>
+</String>
+<I32>
+<Name>number of elements (waveform only)</Name>
+<Val>1</Val>
+</I32>
+<String>
+<Name>element size (waveform only)</Name>
+<Val></Val>
+</String>
+<Array>
+<Name></Name>
+<Dimsize>0</Dimsize>
+<Cluster>
+<Name></Name>
+<NumElts>2</NumElts>
+<String>
+<Name>field name</Name>
+<Val></Val>
+</String>
+<String>
+<Name>field value</Name>
+<Val></Val>
+</String>
+</Cluster>
+</Array>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>6</NumElts>
+<String>
+<Name>PV name</Name>
+<Val>XF:4IDD-OP{KBM:1-Ax:Y2}Mtr</Val>
+</String>
+<String>
+<Name>description</Name>
+<Val>Motor 2 Current Position</Val>
+</String>
+<String>
+<Name>data type</Name>
+<Val>ao</Val>
+</String>
+<I32>
+<Name>number of elements (waveform only)</Name>
+<Val>1</Val>
+</I32>
+<String>
+<Name>element size (waveform only)</Name>
+<Val></Val>
+</String>
+<Array>
+<Name></Name>
+<Dimsize>0</Dimsize>
+<Cluster>
+<Name></Name>
+<NumElts>2</NumElts>
+<String>
+<Name>field name</Name>
+<Val></Val>
+</String>
+<String>
+<Name>field value</Name>
+<Val></Val>
+</String>
+</Cluster>
+</Array>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>6</NumElts>
+<String>
+<Name>PV name</Name>
+<Val>XF:4IDD-OP{KBM:1-Ax:Z3}Mtr</Val>
+</String>
+<String>
+<Name>description</Name>
+<Val>Motor 3 Current Position</Val>
+</String>
+<String>
+<Name>data type</Name>
+<Val>ao</Val>
+</String>
+<I32>
+<Name>number of elements (waveform only)</Name>
+<Val>1</Val>
+</I32>
+<String>
+<Name>element size (waveform only)</Name>
+<Val></Val>
+</String>
+<Array>
+<Name></Name>
+<Dimsize>0</Dimsize>
+<Cluster>
+<Name></Name>
+<NumElts>2</NumElts>
+<String>
+<Name>field name</Name>
+<Val></Val>
+</String>
+<String>
+<Name>field value</Name>
+<Val></Val>
+</String>
+</Cluster>
+</Array>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>6</NumElts>
+<String>
+<Name>PV name</Name>
+<Val>XF:4IDD-OP{KBM:1-Ax:Y4}Mtr</Val>
+</String>
+<String>
+<Name>description</Name>
+<Val>Motor 4 Current Position</Val>
+</String>
+<String>
+<Name>data type</Name>
+<Val>ao</Val>
+</String>
+<I32>
+<Name>number of elements (waveform only)</Name>
+<Val>1</Val>
+</I32>
+<String>
+<Name>element size (waveform only)</Name>
+<Val></Val>
+</String>
+<Array>
+<Name></Name>
+<Dimsize>0</Dimsize>
+<Cluster>
+<Name></Name>
+<NumElts>2</NumElts>
+<String>
+<Name>field name</Name>
+<Val></Val>
+</String>
+<String>
+<Name>field value</Name>
+<Val></Val>
+</String>
+</Cluster>
+</Array>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>6</NumElts>
+<String>
+<Name>PV name</Name>
+<Val>XF:4IDD-OP{KBM:1-Ax:Z5}Mtr</Val>
+</String>
+<String>
+<Name>description</Name>
+<Val>Motor 5 Current Position</Val>
+</String>
+<String>
+<Name>data type</Name>
+<Val>ao</Val>
+</String>
+<I32>
+<Name>number of elements (waveform only)</Name>
+<Val>1</Val>
+</I32>
+<String>
+<Name>element size (waveform only)</Name>
+<Val></Val>
+</String>
+<Array>
+<Name></Name>
+<Dimsize>0</Dimsize>
+<Cluster>
+<Name></Name>
+<NumElts>2</NumElts>
+<String>
+<Name>field name</Name>
+<Val></Val>
+</String>
+<String>
+<Name>field value</Name>
+<Val></Val>
+</String>
+</Cluster>
+</Array>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>6</NumElts>
+<String>
+<Name>PV name</Name>
+<Val>XF:4IDD-OP{KBM:1-Ax:Y6}Mtr</Val>
+</String>
+<String>
+<Name>description</Name>
+<Val>Motor 6 Current Position</Val>
+</String>
+<String>
+<Name>data type</Name>
+<Val>ao</Val>
+</String>
+<I32>
+<Name>number of elements (waveform only)</Name>
+<Val>1</Val>
+</I32>
+<String>
+<Name>element size (waveform only)</Name>
+<Val></Val>
+</String>
+<Array>
+<Name></Name>
+<Dimsize>0</Dimsize>
+<Cluster>
+<Name></Name>
+<NumElts>2</NumElts>
+<String>
+<Name>field name</Name>
+<Val></Val>
+</String>
+<String>
+<Name>field value</Name>
+<Val></Val>
+</String>
+</Cluster>
+</Array>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>6</NumElts>
+<String>
+<Name>PV name</Name>
+<Val>XF:4IDD-OP{KBM:1}Kill</Val>
+</String>
+<String>
+<Name>description</Name>
+<Val>Stop Motors</Val>
+</String>
+<String>
+<Name>data type</Name>
+<Val>bi</Val>
+</String>
+<I32>
+<Name>number of elements (waveform only)</Name>
+<Val>1</Val>
+</I32>
+<String>
+<Name>element size (waveform only)</Name>
+<Val></Val>
+</String>
+<Array>
+<Name></Name>
+<Dimsize>0</Dimsize>
+<Cluster>
+<Name></Name>
+<NumElts>2</NumElts>
+<String>
+<Name>field name</Name>
+<Val></Val>
+</String>
+<String>
+<Name>field value</Name>
+<Val></Val>
+</String>
+</Cluster>
+</Array>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>6</NumElts>
+<String>
+<Name>PV name</Name>
+<Val>XF:4IDD-OP{KBM:1}Mov</Val>
+</String>
+<String>
+<Name>description</Name>
+<Val>Move TriSphere to Target</Val>
+</String>
+<String>
+<Name>data type</Name>
+<Val>bi</Val>
+</String>
+<I32>
+<Name>number of elements (waveform only)</Name>
+<Val>1</Val>
+</I32>
+<String>
+<Name>element size (waveform only)</Name>
+<Val></Val>
+</String>
+<Array>
+<Name></Name>
+<Dimsize>0</Dimsize>
+<Cluster>
+<Name></Name>
+<NumElts>2</NumElts>
+<String>
+<Name>field name</Name>
+<Val></Val>
+</String>
+<String>
+<Name>field value</Name>
+<Val></Val>
+</String>
+</Cluster>
+</Array>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>6</NumElts>
+<String>
+<Name>PV name</Name>
+<Val>XF:4IDD-OP{KBM:1}Mtr_CRC</Val>
+</String>
+<String>
+<Name>description</Name>
+<Val>CRC of Encoder</Val>
+</String>
+<String>
+<Name>data type</Name>
+<Val>waveform</Val>
+</String>
+<I32>
+<Name>number of elements (waveform only)</Name>
+<Val>6</Val>
+</I32>
+<String>
+<Name>element size (waveform only)</Name>
+<Val></Val>
+</String>
+<Array>
+<Name></Name>
+<Dimsize>0</Dimsize>
+<Cluster>
+<Name></Name>
+<NumElts>2</NumElts>
+<String>
+<Name>field name</Name>
+<Val></Val>
+</String>
+<String>
+<Name>field value</Name>
+<Val></Val>
+</String>
+</Cluster>
+</Array>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>6</NumElts>
+<String>
+<Name>PV name</Name>
+<Val>XF:4IDD-OP{KBM:1}Mtr_TOut</Val>
+</String>
+<String>
+<Name>description</Name>
+<Val>Motor Time Out</Val>
+</String>
+<String>
+<Name>data type</Name>
+<Val>waveform</Val>
+</String>
+<I32>
+<Name>number of elements (waveform only)</Name>
+<Val>6</Val>
+</I32>
+<String>
+<Name>element size (waveform only)</Name>
+<Val></Val>
+</String>
+<Array>
+<Name></Name>
+<Dimsize>0</Dimsize>
+<Cluster>
+<Name></Name>
+<NumElts>2</NumElts>
+<String>
+<Name>field name</Name>
+<Val></Val>
+</String>
+<String>
+<Name>field value</Name>
+<Val></Val>
+</String>
+</Cluster>
+</Array>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>6</NumElts>
+<String>
+<Name>PV name</Name>
+<Val>XF:4IDD-OP{KBM:1}Mtr_EErr</Val>
+</String>
+<String>
+<Name>description</Name>
+<Val>Encoder Error</Val>
+</String>
+<String>
+<Name>data type</Name>
+<Val>waveform</Val>
+</String>
+<I32>
+<Name>number of elements (waveform only)</Name>
+<Val>6</Val>
+</I32>
+<String>
+<Name>element size (waveform only)</Name>
+<Val></Val>
+</String>
+<Array>
+<Name></Name>
+<Dimsize>0</Dimsize>
+<Cluster>
+<Name></Name>
+<NumElts>2</NumElts>
+<String>
+<Name>field name</Name>
+<Val></Val>
+</String>
+<String>
+<Name>field value</Name>
+<Val></Val>
+</String>
+</Cluster>
+</Array>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>6</NumElts>
+<String>
+<Name>PV name</Name>
+<Val>XF:4IDD-OP{KBM:1}Mtr_InPos</Val>
+</String>
+<String>
+<Name>description</Name>
+<Val>In Position</Val>
+</String>
+<String>
+<Name>data type</Name>
+<Val>waveform</Val>
+</String>
+<I32>
+<Name>number of elements (waveform only)</Name>
+<Val>6</Val>
+</I32>
+<String>
+<Name>element size (waveform only)</Name>
+<Val></Val>
+</String>
+<Array>
+<Name></Name>
+<Dimsize>0</Dimsize>
+<Cluster>
+<Name></Name>
+<NumElts>2</NumElts>
+<String>
+<Name>field name</Name>
+<Val></Val>
+</String>
+<String>
+<Name>field value</Name>
+<Val></Val>
+</String>
+</Cluster>
+</Array>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>6</NumElts>
+<String>
+<Name>PV name</Name>
+<Val>XF:4IDD-OP{KBM:1}Mtr_AmpEn</Val>
+</String>
+<String>
+<Name>description</Name>
+<Val>Motor Amplifier Enabled</Val>
+</String>
+<String>
+<Name>data type</Name>
+<Val>waveform</Val>
+</String>
+<I32>
+<Name>number of elements (waveform only)</Name>
+<Val>6</Val>
+</I32>
+<String>
+<Name>element size (waveform only)</Name>
+<Val></Val>
+</String>
+<Array>
+<Name></Name>
+<Dimsize>0</Dimsize>
+<Cluster>
+<Name></Name>
+<NumElts>2</NumElts>
+<String>
+<Name>field name</Name>
+<Val></Val>
+</String>
+<String>
+<Name>field value</Name>
+<Val></Val>
+</String>
+</Cluster>
+</Array>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>6</NumElts>
+<String>
+<Name>PV name</Name>
+<Val>XF:4IDD-OP{KBM:1}Local</Val>
+</String>
+<String>
+<Name>description</Name>
+<Val>Local Control</Val>
+</String>
+<String>
+<Name>data type</Name>
+<Val>bo </Val>
+</String>
+<I32>
+<Name>number of elements (waveform only)</Name>
+<Val>1</Val>
+</I32>
+<String>
+<Name>element size (waveform only)</Name>
+<Val></Val>
+</String>
+<Array>
+<Name></Name>
+<Dimsize>0</Dimsize>
+<Cluster>
+<Name></Name>
+<NumElts>2</NumElts>
+<String>
+<Name>field name</Name>
+<Val></Val>
+</String>
+<String>
+<Name>field value</Name>
+<Val></Val>
+</String>
+</Cluster>
+</Array>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>6</NumElts>
+<String>
+<Name>PV name</Name>
+<Val>XF:4IDD-OP{KBM:1}InPos</Val>
+</String>
+<String>
+<Name>description</Name>
+<Val>At Target</Val>
+</String>
+<String>
+<Name>data type</Name>
+<Val>bo </Val>
+</String>
+<I32>
+<Name>number of elements (waveform only)</Name>
+<Val>1</Val>
+</I32>
+<String>
+<Name>element size (waveform only)</Name>
+<Val></Val>
+</String>
+<Array>
+<Name></Name>
+<Dimsize>0</Dimsize>
+<Cluster>
+<Name></Name>
+<NumElts>2</NumElts>
+<String>
+<Name>field name</Name>
+<Val></Val>
+</String>
+<String>
+<Name>field value</Name>
+<Val></Val>
+</String>
+</Cluster>
+</Array>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>6</NumElts>
+<String>
+<Name>PV name</Name>
+<Val>XF:4IDD-OP{KBM:1}PosReset</Val>
+</String>
+<String>
+<Name>description</Name>
+<Val>Reset Targets to Current Position</Val>
+</String>
+<String>
+<Name>data type</Name>
+<Val>bi</Val>
+</String>
+<I32>
+<Name>number of elements (waveform only)</Name>
+<Val>1</Val>
+</I32>
+<String>
+<Name>element size (waveform only)</Name>
+<Val></Val>
+</String>
+<Array>
+<Name></Name>
+<Dimsize>0</Dimsize>
+<Cluster>
+<Name></Name>
+<NumElts>2</NumElts>
+<String>
+<Name>field name</Name>
+<Val></Val>
+</String>
+<String>
+<Name>field value</Name>
+<Val></Val>
+</String>
+</Cluster>
+</Array>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>6</NumElts>
+<String>
+<Name>PV name</Name>
+<Val>XF:4IDD-OP{KBM:1-Ax:X}Mtr_RBV</Val>
+</String>
+<String>
+<Name>description</Name>
+<Val>X:Readback Position</Val>
+</String>
+<String>
+<Name>data type</Name>
+<Val>ao</Val>
+</String>
+<I32>
+<Name>number of elements (waveform only)</Name>
+<Val>1</Val>
+</I32>
+<String>
+<Name>element size (waveform only)</Name>
+<Val></Val>
+</String>
+<Array>
+<Name></Name>
+<Dimsize>0</Dimsize>
+<Cluster>
+<Name></Name>
+<NumElts>2</NumElts>
+<String>
+<Name>field name</Name>
+<Val></Val>
+</String>
+<String>
+<Name>field value</Name>
+<Val></Val>
+</String>
+</Cluster>
+</Array>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>6</NumElts>
+<String>
+<Name>PV name</Name>
+<Val>XF:4IDD-OP{KBM:1-Ax:Y}Mtr_RBV</Val>
+</String>
+<String>
+<Name>description</Name>
+<Val>Y:Readback Position</Val>
+</String>
+<String>
+<Name>data type</Name>
+<Val>ao</Val>
+</String>
+<I32>
+<Name>number of elements (waveform only)</Name>
+<Val>1</Val>
+</I32>
+<String>
+<Name>element size (waveform only)</Name>
+<Val></Val>
+</String>
+<Array>
+<Name></Name>
+<Dimsize>0</Dimsize>
+<Cluster>
+<Name></Name>
+<NumElts>2</NumElts>
+<String>
+<Name>field name</Name>
+<Val></Val>
+</String>
+<String>
+<Name>field value</Name>
+<Val></Val>
+</String>
+</Cluster>
+</Array>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>6</NumElts>
+<String>
+<Name>PV name</Name>
+<Val>XF:4IDD-OP{KBM:1-Ax:Z}Mtr_RBV</Val>
+</String>
+<String>
+<Name>description</Name>
+<Val>Z:Readback Position</Val>
+</String>
+<String>
+<Name>data type</Name>
+<Val>ao</Val>
+</String>
+<I32>
+<Name>number of elements (waveform only)</Name>
+<Val>1</Val>
+</I32>
+<String>
+<Name>element size (waveform only)</Name>
+<Val></Val>
+</String>
+<Array>
+<Name></Name>
+<Dimsize>0</Dimsize>
+<Cluster>
+<Name></Name>
+<NumElts>2</NumElts>
+<String>
+<Name>field name</Name>
+<Val></Val>
+</String>
+<String>
+<Name>field value</Name>
+<Val></Val>
+</String>
+</Cluster>
+</Array>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>6</NumElts>
+<String>
+<Name>PV name</Name>
+<Val>XF:4IDD-OP{KBM:1-Ax:Rx}Mtr_RBV</Val>
+</String>
+<String>
+<Name>description</Name>
+<Val>rX:Readback Position</Val>
+</String>
+<String>
+<Name>data type</Name>
+<Val>ao</Val>
+</String>
+<I32>
+<Name>number of elements (waveform only)</Name>
+<Val>1</Val>
+</I32>
+<String>
+<Name>element size (waveform only)</Name>
+<Val></Val>
+</String>
+<Array>
+<Name></Name>
+<Dimsize>0</Dimsize>
+<Cluster>
+<Name></Name>
+<NumElts>2</NumElts>
+<String>
+<Name>field name</Name>
+<Val></Val>
+</String>
+<String>
+<Name>field value</Name>
+<Val></Val>
+</String>
+</Cluster>
+</Array>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>6</NumElts>
+<String>
+<Name>PV name</Name>
+<Val>XF:4IDD-OP{KBM:1-Ax:Ry}Mtr_RBV</Val>
+</String>
+<String>
+<Name>description</Name>
+<Val>rY:Readback Position</Val>
+</String>
+<String>
+<Name>data type</Name>
+<Val>ai</Val>
+</String>
+<I32>
+<Name>number of elements (waveform only)</Name>
+<Val>1</Val>
+</I32>
+<String>
+<Name>element size (waveform only)</Name>
+<Val></Val>
+</String>
+<Array>
+<Name></Name>
+<Dimsize>0</Dimsize>
+<Cluster>
+<Name></Name>
+<NumElts>2</NumElts>
+<String>
+<Name>field name</Name>
+<Val></Val>
+</String>
+<String>
+<Name>field value</Name>
+<Val></Val>
+</String>
+</Cluster>
+</Array>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>6</NumElts>
+<String>
+<Name>PV name</Name>
+<Val>XF:4IDD-OP{KBM:1-Ax:Rz}Mtr_RBV</Val>
+</String>
+<String>
+<Name>description</Name>
+<Val>rZ Readback Position</Val>
+</String>
+<String>
+<Name>data type</Name>
+<Val>ao</Val>
+</String>
+<I32>
+<Name>number of elements (waveform only)</Name>
+<Val>1</Val>
+</I32>
+<String>
+<Name>element size (waveform only)</Name>
+<Val></Val>
+</String>
+<Array>
+<Name></Name>
+<Dimsize>0</Dimsize>
+<Cluster>
+<Name></Name>
+<NumElts>2</NumElts>
+<String>
+<Name>field name</Name>
+<Val></Val>
+</String>
+<String>
+<Name>field value</Name>
+<Val></Val>
+</String>
+</Cluster>
+</Array>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>6</NumElts>
+<String>
+<Name>PV name</Name>
+<Val>XF:4IDD-OP{KBM:1}TarErr</Val>
+</String>
+<String>
+<Name>description</Name>
+<Val>Target Values out of system Range</Val>
+</String>
+<String>
+<Name>data type</Name>
+<Val>bo </Val>
+</String>
+<I32>
+<Name>number of elements (waveform only)</Name>
+<Val>1</Val>
+</I32>
+<String>
+<Name>element size (waveform only)</Name>
+<Val></Val>
+</String>
+<Array>
+<Name></Name>
+<Dimsize>0</Dimsize>
+<Cluster>
+<Name></Name>
+<NumElts>2</NumElts>
+<String>
+<Name>field name</Name>
+<Val></Val>
+</String>
+<String>
+<Name>field value</Name>
+<Val></Val>
+</String>
+</Cluster>
+</Array>
+</Cluster>
+</Array>
+</LVData>

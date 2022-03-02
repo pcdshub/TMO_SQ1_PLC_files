@@ -1,0 +1,20 @@
+<?xml version='1.0' standalone='yes' ?>
+<LVData xmlns="http://www.ni.com/LVData">
+<Version>18.0f2</Version>
+<Cluster>
+<Name>Value</Name>
+<NumElts>3</NumElts>
+<DBL>
+<Name>X</Name>
+<Val>-183.16000000000000</Val>
+</DBL>
+<DBL>
+<Name>Y</Name>
+<Val>618.64999999999998</Val>
+</DBL>
+<DBL>
+<Name>Z</Name>
+<Val>616.39999999999998</Val>
+</DBL>
+</Cluster>
+</LVData>
